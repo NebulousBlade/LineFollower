@@ -29,4 +29,4 @@ This is the main body of the robot, it has 2 holes for the motor wires to pass t
 This is a part in case you want to mount something above the main board.
 
 ### Spacers
-The spacers are used to lower the sensors lower to the ground.
+The spacers are used to lower the sensors closer to the ground.
