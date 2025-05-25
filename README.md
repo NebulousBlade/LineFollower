@@ -22,11 +22,11 @@ Using [Thonny](https://thonny.org/), you may copy the files in the microcontroll
 ### 🔨 3D Printing
 Download the 3 stl files and open then into your slicer. The body has be split into 3 parts from optimal printing without the need of support material.
 
-#### Body
+* #### Body
 This is the main body of the robot, it has 2 holes for the motor wires to pass through.
 
-### Top
+* ### Top
 This is a part in case you want to mount something above the main board.
 
-### Spacers
+* ### Spacers
 The spacers are used to lower the sensors closer to the ground.
