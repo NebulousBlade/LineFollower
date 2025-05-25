@@ -22,6 +22,6 @@ Using [Thonny](https://thonny.org/), you may copy the files in the microcontroll
 ### 🔨 3D Printing
 Download the 3 stl files and open then into your slicer.
 
-###Body
+### Body
 this is the main body of the robot, it has 2 holes for the motor wires to pass through
 
